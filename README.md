@@ -1,4 +1,4 @@
-# JWeb
+# JAction
 security,parallel calculate and automatic service find that run with java7+ environment.
 #
 to run up this project you can delegate your algorithm implementtion with java environment.
